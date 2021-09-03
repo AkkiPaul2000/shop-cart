@@ -12,7 +12,7 @@ export const details=[
     "vendor":"Himachal Pvt Ltd", 
     
     "category":"Vegtables" ,
-    "image": '',
+    "image": 'https://static.india.com/wp-content/uploads/2017/03/Potato.jpg?impolicy=Medium_Resize&w=1200&h=800',
     
     }, 
     

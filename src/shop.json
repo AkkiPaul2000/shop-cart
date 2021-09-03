@@ -12,7 +12,10 @@
     
     "vendor":"Himachal Pvt Ltd", 
     
-    "category":"Vegetables" 
+    "category":"Vegetables" ,
+    "image": "https://resize.indiatvnews.com/en/resize/newbucket/1200_-/2020/07/potatoes-1594205506.jpg"
+
+    
     
     }, 
     
@@ -28,9 +31,9 @@
     
     "category":"Fruits",
     
-    "vendor": "Organic farms"
+    "vendor": "Organic farms",
     
-    
+    "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtVNfJ8njBgZjRbdw2IPYDudPgLw3Vzqc95Q&usqp=CAU"
     }, 
     
     { 
@@ -45,7 +48,9 @@
     
     "category":"Vegetables", 
     
-    "vendor":"Mallikarjuna farms"
+    "vendor":"Mallikarjuna farms",
+    
+    "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ_k_JFEWxlo4B9Jsss6JKLZWPU40PnhzqIuA&usqp=CAU"
     
     }, 
     
@@ -61,7 +66,9 @@
     
     "vendor":"Nagpur farms", 
     
-    "category":"Fruits" 
+    "category":"Fruits",
+
+    "image" :"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTHdOF9sefy_Jno7DmjprBiabua8UDDrIqEAQ&usqp=CAU"
     
     } 
     
