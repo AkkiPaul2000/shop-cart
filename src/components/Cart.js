@@ -7,12 +7,12 @@ export default function Cart(props) {
     return (
         <div>
             <h2>The Cart</h2>
-            {/* <div>
-                {cartItems.length ===0 && <div>
+            <div>
+                {props.cartItems.length ===0 && <div>
                     Cart is Empty
                     </div>
                     }
-            </div> */}
+            </div>
             
         </div>
     )

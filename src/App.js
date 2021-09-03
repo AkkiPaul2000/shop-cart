@@ -45,7 +45,7 @@ function App() {
           <Products shop={shop} category={categories}  />
         </div>
         <aside className="cart">
-          <Cart shop={shop} category={categories} />
+          <Cart shop={shop} category={categories} cartItems={cartItems} />
         </aside>
       </div>
      
