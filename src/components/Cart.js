@@ -9,7 +9,8 @@ export default function Cart(props) {
           <h1>The Cart</h1>
             <div>
                 {props.cartItems.length ===0 && <div>
-                    Cart is Empty
+                    Cart is Empty<br></br>
+                    The cart has {props.cartItems.length}Products.
                     </div>
                     }
             </div>
