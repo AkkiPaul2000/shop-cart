@@ -33,9 +33,9 @@ export default function Item(props) {
             {product.name}
           </Typography>
           <Typography variant="body2" color="textSecondary" component="p">
-            <p>Vendor: {product.vendor}</p>
-            <p>Price: ₹{product.price}</p>
-            <p>Category: {product.category}</p>
+            <p><b>Vendor:</b> {product.vendor}</p>
+            <p><b>Price:</b> ₹{product.price}</p>
+            <p><b>Category:</b> {product.category}</p>
           </Typography>
         </CardContent>
       </CardActionArea>
