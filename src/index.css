@@ -11,12 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 } */
+
 body {
   font-family: Helvetica, Arial, sans-serif;
-  padding: 1rem;
-  margin: 0.5rem;
 }
-a {
+/* a {
   text-decoration: none;
 }
 h1,
@@ -32,4 +31,4 @@ h2 {
 }
 h3 {
   font-size: 1rem;
-}
+} */

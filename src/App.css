@@ -1,31 +1,41 @@
 .body {
   display: flex;
-  padding: 1rem;
   margin-bottom: 0.5rem;
   margin-top: 0.5rem;
   align-items: center;
   justify-content: space-between;
+  position: relative;
 }
 .body .product {
-  background-color: red;
-  /* background-color: #131921; */
-  flex: 2;
+  background-color: #131921;
+  flex: 5;
   color: white;
   display: flex;
   padding: 1rem;
-  margin: 0.5rem;
   border-radius: 0.5rem;
   align-items: center;
-  justify-content: center;
+  justify-content: space-between;
 }
 .body .cart {
-  background-color: blue;
+  display: flex;
+  background-color: #131921;
   flex: 1;
   color: white;
-  display: flex;
-  padding: 1rem;
+  padding: 10%;
   margin: 0.5rem;
   border-radius: 0.5rem;
   align-items: center;
-  justify-content: center;
+}
+.form {
+  color: #131921;
+}
+.App {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+}
+.footer {
+  flex: 1;
+
+  bottom: 0;
 }
